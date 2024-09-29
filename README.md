@@ -22,8 +22,8 @@ For any questions or clarifications, please don't hesitate to reach out:
 ## 📚 Recommended Study Materials
 
 ### Textbooks and notes
-- 📘 [Nigel Cutland - Computability: An Introduction to Recursive Function Theory]
-- 📗 [Computability - some unofficial notes][here]("https://www.math.unipd.it/~baldan/Computability/notes.pdf")
+- 📘 [Nigel Cutland - Computability: An Introduction to Recursive Function Theory](https://www.amazon.it/Computability-Introduction-Recursive-Function-Theory/dp/0521294657)
+- 📗 [Computability - some unofficial notes]("https://www.math.unipd.it/~baldan/Computability/notes.pdf")
 
 ## 💡 Feedback and Suggestions
 
