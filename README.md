@@ -1,23 +1,22 @@
-# 🧠 Computability Tutoring 2024-2025
+# Computability Tutoring 2024-2025
 
 Welcome to the repository for notes and solutions to exercises proposed during the Computability course, part of the Master's degree in Computer Science at the University of Padua, taught by Prof. Paolo Baldan for the academic year 2023-2024.
 
-## 📞 Contact Information
-
-For any questions or clarifications, please don't hesitate to reach out:
-
-📧 [gabriel.rovesti@studenti.unipd.it]
-
 ## 📅 Schedule
 
-| **#** | **Date**     | **Time**     | **Room** |
-|:-----:|:------------:|:------------:|:--------:|
-|   1   |  [Date]      | [Time]       |  [Room]  |
-|   2   |  [Date]      | [Time]       |  [Room]  |
-|   3   |  [Date]      | [Time]       |  [Room]  |
-|   4   |  [Date]      | [Time]       |  [Room]  |
-|   5   |  [Date]      | [Time]       |  [Room]  |
-|  ...  |    ...       |    ...       |   ...    |
+| **#** | **Date**     | **Time**      | **Room** |
+|:-----:|:------------:|:------------: |:--------:|
+|   1   | [16/10/2024] | [16:30/18:30] |  [1BC50]  |
+|   2   | [30/10/2024] | [16:30/18:30] |  [1BC50]  |
+|   3   | [06/11/2024] | [16:30/18:30] |  [1BC50]  |
+|   4   | [13/11/2024] | [16:30/18:30] |  [1BC50]  |
+|   5   | [20/11/2024] | [16:30/18:30] |  [1BC50]  |
+|   6   | [27/11/2024] | [16:30/18:30] |  [1BC50]  |
+|   7   | [11/12/2024] | [16:30/18:30] |  [2BC60]  |
+|   8   | [18/12/2024] | [16:30/18:30] |  [1BC50]  |
+|   9   | [08/01/2025] | [16:30/18:30] |  [1BC50]  |
+|   10   | [15/01/2025] | [16:30/18:30] | [1BC50]  |
+|   11   | [22/01/2025] | [16:30/18:30] | [1BC50]  |
 
 ## 📚 Recommended Study Materials
 
@@ -27,11 +26,11 @@ For any questions or clarifications, please don't hesitate to reach out:
 
 ## 💡 Feedback and Suggestions
 
-Your feedback is invaluable! For comments, suggestions, or questions about the material, please:
+For any questions or clarifications, please don't hesitate to reach out!
+
+In this case, please:
 
 - ✉️ Send me an email - gabriel.rovesti@studenti.unipd.it
 - 🌐 Foster a discussion in the Telegram group or write me - @gabrielrovesti
 
 ---
-
-*Best of luck with your journey and your studies! 🚀*
