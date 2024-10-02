@@ -1,6 +1,6 @@
 # Computability Tutoring 2024-2025
 
-Welcome to the repository for notes and solutions to exercises proposed during the Computability course, part of the Master's degree in Computer Science at the University of Padua, taught by Prof. Paolo Baldan for the academic year 2023-2024.
+Welcome to the repository for notes and solutions to exercises proposed during the Computability course, part of the Master's degree in Computer Science at the University of Padua, taught by Prof. Paolo Baldan for the academic year 2024-2025.
 
 ## 📅 Schedule
 
