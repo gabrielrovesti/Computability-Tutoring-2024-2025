@@ -26,7 +26,7 @@ For each meeting, accompanied with date, there is the notes file being written b
 I do specify that for each meeting there is a folder called "Useful files", which can be usedy as summary to study for exams or just to personally get a better grasp of the presented lesson's content.
 It's all present there to help: material there is also found within the web (owners are specified), given this is material found easily within search engine searches.
 
-It's also present a "Notation" folder, to further help you with symbols used during the course.
+It's also present a "Notations" folder, to further help you with symbols used during the course.
 
 ## 📚 Recommended Study Materials
 
