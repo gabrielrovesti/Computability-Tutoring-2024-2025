@@ -23,10 +23,10 @@ Welcome to the repository for notes and solutions to exercises proposed during t
 
 For each meeting, accompanied with date, there is the notes file being written by me during the lesson (tablet-based) and the PDF transcription of the same notes, so to help you use directly this one in case of misunderstandings and also to have a more coherent form.
 
-I do specify that for each meeting there is a folder called "Useful files", which can be usedy as summary to study for exams or just to personally get a better grasp of the presented lesson's content.
-It's all present there to help: material there is also found within the web (owners are specified), given this is material found easily within search engine searches.
+I do specify that for each meeting there is a folder called "Useful files", which can be used as summary to study for exams or just to personally get a better grasp of the presented lesson's content.
+It's all present there to help: material there is also found within the web (owners are specified), given this is material found easily within search engine searches (or custom created so to help you).
 
-It's also present a "Notations" folder, to further help you with symbols used during the course.
+It's also present a "Notations" folder, to further help you with symbols used during the course or some sort of summary.
 
 ## 📚 Recommended Study Materials
 
