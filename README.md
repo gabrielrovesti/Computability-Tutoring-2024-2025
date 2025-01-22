@@ -53,6 +53,6 @@ For any questions or clarifications, please don't hesitate to reach out!
 In this case, please:
 
 - ✉️ Send me an email - gabriel.rovesti@studenti.unipd.it
-- 🌐 Foster a discussion in the Telegram group or write me - @gabrielrovesti
+- 🌐 Foster a discussion in the Telegram group or write me - @grovesti
 
 ---
