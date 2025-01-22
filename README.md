@@ -26,9 +26,19 @@ For each meeting, accompanied with date, there is the notes file being written b
 I do specify that for each meeting there is a folder called "Useful files", which can be used as summary to study for exams or just to personally get a better grasp of the presented lesson's content.
 It's all present there to help: material there is also found within the web (owners are specified), given this is material found easily within search engine searches (or custom created so to help you).
 
-Other things to note:
-- the "General Notations" folder helps to read and understand the notation of the course and of each meeting of the tutoring activities presented
-- the "Exercises with no solutions" folder helps you in seeing all of the solutions for exercises from the professor PDF currently with no official solutions plus some exercises from older exams with the same logic. It's intended to be a guidance and a draft, so in case of errors or doubts, feel free to feedback.
+### Subfolders present
+
+- "General course notations"
+    - Helps to read and understand the notation of the course and of each meeting of the tutoring activities presented
+
+- "Exercises with no solutions" 
+    - Helps you in seeing all of the solutions for exercises from the professor PDF currently with no official solutions plus some exercises from older exams with the same logic. It's intended to be a guidance and a draft, so in case of errors or doubts, feel free to feedback
+
+- "General guides" 
+    - Notes written specifically for each exercise category
+
+- "Notes"
+    - My notes file - complete of everything - written last year for this course and updated on some peers suggestions (always welcome!)
 
 ## 📚 Recommended Study Materials
 
