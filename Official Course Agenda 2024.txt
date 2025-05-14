@@ -1,0 +1,107 @@
+1. 01/10/2024
+   Historical introduction. From logics to computability to modern
+   computer science.
+
+2. 07/10/2024
+   Effective procedures and computable functions. Relations, functions,
+   sets and cardinality. Existence of non-computable functions.
+
+3. 08/10/2024
+   URM-computability. The class C of URM-computable
+   functions. Examples. [§1.2, §1.3]
+
+4. 14/10/2024
+   Exercises on some variants of the URM machine
+   Decidable predicates. [§1.4]
+   Computability on domains different from the natural numbers. [§1.5, §3.6]
+
+5. 15/10/2024
+   Generating computable functions: Notation. Closure under generalised
+   composition (Substitution) [§2.1, §2.2, §2.3]
+   Primitive recursion and examples [§2.4]
+
+6. 28/10/2024
+   Generation of computable functions
+
+   Primitive recursion and examples [§2.4]
+   Definition by cases. Algebra of Decidability. Bounded sums and products.
+   Bounded quantification  [§2.4.6, §2.4.7, §2.4.10]
+   Bounded minimalisation  [§2.4.12, §2.4.13, §2.4.14, §2.4.15]
+
+7. 29/10/2024
+   Generation of computable functions
+
+   Unbounded minimalisation [§2.5]
+   Computability of the inverse function.   Finite functions and their computability.
+   Partial recursive functions [§3.1, §3.2,   §3.7]
+        Definition
+        The class of partial recursive functions coincide with the class of URM-computable functions [statement and some ideas]
+
+8. 04/11/2024
+   Proof of the fact that the class of partial recursive functions coincide
+    with the class of URM-computable functions
+    Primitive recursive functions. [§3.3]
+    Ackermann's functions: total, computable and not primitive recursive
+    [partially in §2.5.5]
+      
+9. 05/11/2024
+   Enumerating URM programs and computable functions [§4.1, §4.2]
+
+10. 11/11/2024
+    The diagonal method [§4.3]
+
+11. 12/11/2024   
+    The smn theorem (or parametrisation theorem) [§4.4]
+
+12. 18/11/2024
+    Universal function: definition and computability [§5.1, Appendix of  §5]
+    C and computability of the inverse function, undecidability of the
+    halting problem and of totality [§5.1]
+
+13. 19/11/2024    
+    Effective operations on computable functions. Exercises. [§5.3,
+    §6.1.1, §6.1.3, §6.1.4, §6.1.6 with slightly different approach]
+    
+14. 25/11/2024   
+    Exercises
+
+15. 26/11/2024
+    Recursive sets. Reduction. [§7.1, see also §6.1 and §9.1]
+
+16. 02/12/2024
+    Rice's theorem [§6.1.7, §6.1.8]
+
+17. 03/12/2024
+    Recursively enumerable sets.
+    [§7.2.1, §7.2.2, §7.2.4, §7.2.5, §7.2.6, §7.2.13]
+
+18. 09/12/2024
+    Reducibility and r.e. sets [§9.1.3]
+    Alternative characterisation of r.e. sets [§7.2.3, §7.2.7]
+    Introduction to Rice-Shapiro's theorem [§7.2.16]
+
+19. 10/12/2024
+    Rice-Shapiro's theorem. Proof, examples, counterexample to the
+    converse implication [§7.2.16] 
+    
+20. 16/12/2024       
+    Recursive functionals (recursive operators, in the book).
+    Myhill-Shepherdson Theorem.
+    First recursion theorem [§10.1, §10.2, §10.3, without proofs]
+
+21. 17/12/2024
+    Second recursion theorem [§11.1, §11.2]
+
+22. 18/12/2024
+    A typical exam: exercises
+
+Jan 2025
+
+23. 07/01/2025
+    Exercises
+
+24. 13/01/2025
+    Exercises
+
+25. 14/01/2025
+    Exercises

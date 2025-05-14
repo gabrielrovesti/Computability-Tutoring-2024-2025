@@ -19,7 +19,7 @@ Welcome to the repository for notes and solutions to exercises proposed during t
 |   11  | 15/01/2025 | 16:30/18:30 |  1BC50   |
 |   12  | 22/01/2025 | 16:30/18:30 |  1BC50   |
 
-## 📁 Folder Structure
+## 📁 Repository Structure
 
 For each meeting, accompanied with date, there is the notes file being written by me during the lesson (tablet-based) and the PDF transcription of the same notes, so to help you use directly this one in case of misunderstandings and also to have a more coherent form.
 
@@ -28,16 +28,27 @@ It's all present there to help: material there is also found within the web (own
 
 ### Subfolders present
 
-- "General course notations"
+- **"General course notations"**
     - Helps to read and understand the notation of the course and of each meeting of the tutoring activities presented
+    - Includes documents on functions, minimization, Cantor's method, SMN Theorem, predicates, recursive sets, Rice's theorem and Rice-Shapiro Theorem
 
-- "Exercises with no solutions" 
-    - Helps you in seeing all of the solutions for exercises from the professor PDF currently with no official solutions plus some exercises from older exams with the same logic. It's intended to be a guidance and a draft, so in case of errors or doubts, feel free to feedback
+- **"Exercises with no solutions"** 
+    - Helps you in seeing all of the solutions for exercises from the professor PDF currently with no official solutions plus some exercises from older exams with the same logic
+    - It's intended to be a guidance and a draft, so in case of errors or doubts, feel free to feedback
 
-- "General guides" 
+- **"General guides"** 
     - Notes written specifically for each exercise category
+    - Includes guides on recursive functions, proving non-computability, Rice's theorem, S-m-n Theorem, universal functions, predicates, and more
 
-- "Notes"
+- **"Meetings - Tutorings"**
+    - Contains all tutoring sessions organized by date
+    - Each meeting folder includes:
+      - Lesson notes (tablet-written .xopp)
+      - PDF transcription 
+      - PC-written notes in both .docx and PDF formats
+      - "Useful files" subfolder with topic-specific materials
+
+- **"Notes"**
     - My notes file - complete of everything - written last year for this course and updated on some peers suggestions (always welcome!)
 
 ## 📚 Recommended Study Materials
