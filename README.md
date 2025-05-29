@@ -51,6 +51,12 @@ It's all present there to help: material there is also found within the web (own
 - **"Notes"**
     - My notes file - complete of everything - written last year for this course and updated on some peers suggestions (always welcome!)
 
+- **"Exam Guides"**
+    - Some files I gathered to help you passing this exam or custom created + a merge of previous exams solved so for you to have practical guidance
+ 
+- **"Older Tutorings Recordings"**
+    - Links to previous recordings of other tutoring activities of this subject - big thanks to Riccardo Borsetto and Giacomo Stevanato for those (completementary to all the material present here)
+
 ## 📚 Recommended Study Materials
 
 ### Textbooks and notes
