@@ -26,6 +26,8 @@ For each meeting, accompanied with date, there is the notes file being written b
 I do specify that for each meeting there is a folder called "Useful files", which can be used as summary to study for exams or just to personally get a better grasp of the presented lesson's content.
 It's all present there to help: material there is also found within the web (owners are specified), given this is material found easily within search engine searches (or custom created so to help you).
 
+Other files were added overtime, like the agenda of the course I received as tutor (and for you to be organized upfront) and other guides to completely cover this subject + my biggest notes file I created. Many more [here](https://gabrielrovesti.github.io/).
+
 ### Subfolders present
 
 - **"General course notations"**
