@@ -59,6 +59,9 @@ Other files were added overtime, like the agenda of the course I received as tut
 - **"Older Tutorings Recordings"**
     - Links to previous recordings of other tutoring activities of this subject - big thanks to Riccardo Borsetto and Giacomo Stevanato for those (completementary to all the material present here)
 
+- **"Solved Exams with No Solutions"**
+    - Possible solutions to ALL previous exams with no solutions - up to 2025, to FULLY cover this subject, in a 200% complete way
+
 ## 📚 Recommended Study Materials
 
 ### Textbooks and notes
